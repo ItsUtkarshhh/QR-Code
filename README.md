@@ -1,1 +1,1 @@
-# QR-Code
+This is a simple Python mini-project that demonstrates how to create a QR code using Python programming language. QR codes are 2-D barcodes that can store various types of data, such as text, URLs, contact information, and more. This project utilizes the qrcode library to generate a QR Code.
